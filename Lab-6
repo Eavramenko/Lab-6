@@ -93,7 +93,7 @@ def output():
 
     print("-----------------------------------------------")
 
-    print("Легковой автомобиль")
+    print("Автобус")
     passenger1 = Passenger(60, 10, 60.5, 2)
     passenger2 = Passenger(60, 10, 60.5, 4)
     print(passenger1.pc_to_fuel250())
